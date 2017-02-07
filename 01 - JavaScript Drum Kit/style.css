@@ -29,6 +29,7 @@ body,html {
   background: rgba(0,0,0,0.4);
   text-shadow: 0 0 .5rem black;
   transition: all .07s ease;
+  user-select: none;
 }
 
 .playing {
